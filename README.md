@@ -1,1 +1,1 @@
-# Django_crud
+Django Crud Zuri Project
